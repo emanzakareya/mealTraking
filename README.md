@@ -53,13 +53,12 @@ meal-tracker/
 │── pubspec.yaml                 # Project dependencies
 ```
 
-## Screenshots![Simulator Screenshot - iPhone 15 - 2025-03-24 at 18 41 28](https://github.com/user-attachments/assets/5e2d97ce-b63c-4f2a-a2d1-0a1e3b45d08a)
+## Screenshots!![Simulator Screenshot - iPhone 15 - 2025-03-24 at 16 47 23](https://github.com/user-attachments/assets/cac83a3d-a23b-42ef-88d3-8b3a617b1dbe)
+![Simulator Screenshot - iPhone 15 - 2025-03-24 at 16 47 13](https://github.com/user-attachments/assets/ac1013ff-6fac-40f8-9179-17f50e8d324c)
+![Simulator Screenshot - iPhone 15 - 2025-03-24 at 16 46 46](https://github.com/user-attachments/assets/8ed82d33-ed74-4085-a646-bc0edf0ad2d7)![Simulator Screenshot - iPhone 15 - 2025-03-24 at 18 41 28](https://github.com/user-attachments/assets/68190b0f-0ef8-47df-aa42-f3a460457e2e)![Simulator Screenshot - iPhone 15 - 2025-03-24 at 16 46 46](https://github.com/user-attachments/assets/58ee61d4-7c7d-438d-ae36-fe562c071e8b)
 
-_Add screenshots of the app here_![Simulator Screenshot - iPhone 15 - 2025-03-24 at 16 46 46](https://github.com/user-attachments/assets/7010c7e5-4![Simulator Screenshot - iPhone 15 - 2025-03-24 at 16 47 23](https://github.com/user-attachments/assets/8bb09260-770f-4fbe-aef2-32518d957266)![Simulator Screenshot - iPhone 15 - 2025-03-24 at 16 47 23](https://github.com/user-attachments/assets/aad9eaca-1fc1-4410-9d5c-c6a01ec2d9fa)![Simulator Screenshot - iPhone 15 - 2025-03-24 at 16 46 46](https://github.com/user-attachments/assets/f7062319-2483-4a70-9d32-5df3df444691)
 
 
-391-49fd-9f97-![Simulator Screenshot - iPhone 15 - 2025-03-24 at 16 47 13](https://github.com/user-attachments/assets/5f0d6184-8b78-43d5-bee1-8130f5b0fddc)
-d04c299c0e0d)
 
 
 ## License
